@@ -2,4 +2,4 @@ numpy
 joblib
 fastapi
 uvicorn
-sklearn
+scikit-learn
