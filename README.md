@@ -15,7 +15,7 @@
   - Whether someone is a smoker or not.
 - The model was trained on [this dataset](https://www.kaggle.com/datasets/mirichoi0218/insurance)
 - The notebook for this task is [in this repo](summative/linear_regression/multivariate.ipynb).
-- The model was deployed to an API hosted on Render. The API is documented below.
+- The model was deployed to an [API hosted on Render](https://alu-mathematics-for-machine-learning.onrender.com/predict). The API is documented below.
 
 ### API Documentation
 
@@ -54,4 +54,3 @@ Request Response Body
 ### Task 3
 
 - A Flutter App that makes requests to the endpoints.
--
